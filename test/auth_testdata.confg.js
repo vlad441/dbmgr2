@@ -1,0 +1,1 @@
+﻿module.exports={ host: "", port: 27017, dbname: "testdb", login: "", pass: "" };

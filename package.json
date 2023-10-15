@@ -1,0 +1,13 @@
+{
+  "name": "dbmgr2",
+  "version": "0.0.2",
+  "description": "Universal shell for storing and working with data",
+  "main": "dbmgr.js",
+  "repository": "vlad441/dbmgr2",
+  "engines" : { "node" : ">=12"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vlad441",
+  "license": "CC0"
+}
